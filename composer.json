@@ -1,0 +1,23 @@
+{
+    "name": "anabelle/estoquededoces",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Anabelle\\Estoquededoces\\": "ESTOQUEDOCES/",
+              "Controller\\": "Controller/",
+            "Model\\": "Model/"
+        }
+    },
+
+     "files": [
+            "Config/Configuration.php"
+        ],
+    "authors": [
+        {
+            "name": "ana-Bellegit",
+            "email": "anabelle12anabelle@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
